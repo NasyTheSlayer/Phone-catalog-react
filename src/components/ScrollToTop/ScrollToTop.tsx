@@ -1,3 +1,4 @@
+import React from 'react';
 import './ScrollToTop.scss';
 
 export const ScrollToTop = () => {

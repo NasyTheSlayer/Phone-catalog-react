@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef, useState } from 'react';
+import React, { useLayoutEffect, useRef, useState } from 'react';
 import { Product } from '../../types/Product';
 import './ProductSlider.scss';
 import { ProductCard } from '../ProductCard';
