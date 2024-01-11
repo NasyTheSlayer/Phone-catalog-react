@@ -1,3 +1,4 @@
+import React from 'react';
 import { Link } from 'react-router-dom';
 import phones from '../../assets/category-phones.png';
 import tablets from '../../assets/category-tablets.png';

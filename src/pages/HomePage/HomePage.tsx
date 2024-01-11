@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 import './HomePage.scss';
 import { ProductSlider } from '../../components/ProductSlider';

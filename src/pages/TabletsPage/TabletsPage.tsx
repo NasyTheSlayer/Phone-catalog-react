@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import './TabletsPage.scss';
 import { BreadCrumbs } from '../../components/BreadCrumbs';

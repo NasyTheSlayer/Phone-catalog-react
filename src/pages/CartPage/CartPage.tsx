@@ -1,7 +1,7 @@
 import './CartPage.scss';
 import { Link } from 'react-router-dom';
 
-import { useContext, useMemo, useState } from 'react';
+import React, { useContext, useMemo, useState } from 'react';
 import { CartContext } from '../../context/CartContext';
 import { BackButton } from '../../components/BackButton';
 import { ComingSoon } from '../../components/ComingSoon';

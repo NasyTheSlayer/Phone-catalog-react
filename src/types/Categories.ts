@@ -1,3 +1,4 @@
+/* eslint-disable no-shadow */
 export enum Categories {
   Phones = 'phones',
   Tablets = 'tablets',
