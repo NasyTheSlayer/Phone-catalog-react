@@ -1,18 +1,20 @@
-# Eco cosmetics landing page
+# React phone catalog
 
-- [DEMO LINK](https://nasytheslayer.github.io/Eco-cosmetics-landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/Phone-catalog-react/)
 
-- [Figma design](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=21779%3A631&t=Gtk1Kj4TKq6BJit2-1)
+- [Figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
 ## General info
-Eco cosmetics landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
+The project is a web application for internet mobile store developed using React with TypeScript, Redux for state management, and SCSS for styling. It is designed to showcase and manage a list of products, fetching data from a RESTful API.
 
 ## Technologies
 Project was created with:
-* JavaScript
-* CSS, SCSS (flexboxes, grids, animations)
-* HTML
-* BEM methodology
+* React, React Router
+* Redux
+* TypeScript
+* SCSS, BEM methodology
+* ESLint
+* RESTful API
 
 ## Setup
 1. Use 14 version of node.js:
@@ -22,12 +24,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Eco-cosmetics-landing
+$ git clone https://github.com/NasyTheSlayer/Phone-catalog-react.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code PotrPots_landing
+$ code Phone-catalog-react
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
